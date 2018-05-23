@@ -1,0 +1,12 @@
+flask
+flask-session
+flask-script
+flask-blueprint
+flask-sqlalchemy
+redis
+pymysql
+Django==1.11
+flask-debugtoolbar
+flask-marshmallow
+flask-restful
+jinja2
